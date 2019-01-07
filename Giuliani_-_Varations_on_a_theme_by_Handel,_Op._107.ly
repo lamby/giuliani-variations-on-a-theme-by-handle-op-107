@@ -7,7 +7,7 @@
 
 \header {
 	title = "Variations on a theme by Handel, Op. 107"
-	composer = "Mauro Giuliani (1781-1829"
+	composer = "Mauro Giuliani (1781-1829)"
 	arranger = \markup { \tiny "Arranged by Chris Lamb" }
 }
 
